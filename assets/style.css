@@ -1,0 +1,182 @@
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.nav-link:hover {
+    color: #0D6EFD;
+}
+
+.button {
+    background-color: #0D6EFD;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+.button:hover {
+    background-color: #fff;
+    color: #0D6EFD;
+}
+
+#jumbotron .jumbotron {
+    background-image: url('img/img.avif');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+    padding: 60px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#jumbotron .display-5 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #f1f1f1;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+#jumbotron .display-5 span {
+    color: #756d6d;
+    font-weight: 900;
+}
+
+#jumbotron .subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #e0e0e0;
+    margin-top: 15px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#aboutme h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#about p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+.personal-info h5 {
+    font-size: 1.2rem;
+    color: #0D6EFD;
+    margin-bottom: 10px;
+}
+
+.personal-info ul {
+    padding: 0;
+}
+
+.personal-info li {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+#about h5 {
+    font-size: 1.1rem;
+    margin-top: 15px;
+    color: #0D6EFD;
+}
+
+#about ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#about li {
+    font-size: 0.95rem;
+    color: #666;
+}
+
+.button {
+    background-color: #0D6EFD;
+    color: #fff;
+    border-radius: 25px;
+    padding: 8px 20px;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: #fff;
+    color: #0D6EFD;
+    border: 1px solid #0D6EFD;
+}
+
+#education h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.education-list {
+    padding-left: 0;
+    border-left: 3px solid #0D6EFD;
+    margin-top: 20px;
+}
+
+.education-item {
+    padding-left: 15px;
+    position: relative;
+}
+
+.education-item h5 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #0D6EFD;
+    margin-bottom: 5px;
+}
+
+.education-item p {
+    font-size: 1rem;
+    color: #555;
+    margin: 0;
+}
+
+.education-date {
+    font-size: 0.9rem;
+    color: #777;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.kontak {
+    text-decoration: none;
+}
+
+.footer-brand {
+    font-family: Viga;
+    font-size: 24px;
+    color: #000;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.footer-brand {
+    font-family: viga;
+    font-size: 24px;
+    color : black;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    margin-right: 10px;
+}
